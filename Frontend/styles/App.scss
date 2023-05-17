@@ -1,0 +1,37 @@
+@import "pulse.scss";
+@import "bgImage.scss";
+@import "SignIn.scss";
+@import "dashboard.scss";
+
+:root {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+.options {
+  -webkit-box-shadow: 0px 0px 10px -5px rgba(0, 0, 0, 0);
+  box-shadow: 0px 0px 10px -5px rgba(0, 0, 0, 0.4);
+}
+
+.optionCounterButton:disabled {
+  cursor: not-allowed;
+}
+
+button {
+  transition: ease-in-out 0.2s;
+}
+
+
+
+// .active {
+//   background-color: rgb(36, 35, 35);
+//   color: white;
+//   padding: .5rem 1rem;
+//   border-radius: 5px;
+// }
+
+// div {
+//   border: 1px solid lightcoral;
+// }
+

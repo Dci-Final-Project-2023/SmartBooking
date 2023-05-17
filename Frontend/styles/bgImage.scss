@@ -1,0 +1,45 @@
+.BgImage {
+    background-image: url("../src/assets/maldives.jpg");
+    background-repeat: no-repeat;
+    height: 80px;
+    width: 100%;
+    background-size: cover;
+    object-fit: cover;
+    background-position: bottom;
+    background-attachment: fixed;
+    border: none;
+  }
+  
+  .Header {
+    background-image: url("../src/assets/maldives.jpg");
+    background-repeat: no-repeat;
+    height: 570px;
+    width: 100%;
+    background-size: cover;
+    object-fit: cover;
+    background-position: center;
+    background-attachment: fixed;
+  }
+
+  .LastMinute {
+    background-image: url("../src/assets/lastMinute.jpg");
+    background-repeat: no-repeat;
+    height: 500px;
+    background-size: cover;
+    object-fit: contain;
+    background-position: center;
+    background-attachment: fixed;
+  }
+  
+  .Hotel {
+    background-image: url("../src/assets/maldives.jpg");
+    background-repeat: no-repeat;
+    height: 300px;
+    width: 100%;
+    background-size: cover;
+    object-fit: cover;
+    background-position: center;
+    background-attachment: fixed;
+    border: none;
+  }
+  

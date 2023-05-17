@@ -1,0 +1,363 @@
+[
+  {
+    "name": "Luxury Hotel",
+    "type": "Luxury",
+    "city": "New York",
+    "address": "1234 Main St",
+    "distance": "2 miles",
+    "photos": [
+      "https://cdn.pixabay.com/photo/2012/11/21/10/24/building-66789_960_720.jpg",
+      "https://cdn.pixabay.com/photo/2022/10/23/02/26/hotel-7540353_960_720.jpg",
+      "https://cdn.pixabay.com/photo/2016/06/24/10/47/house-1477041_960_720.jpg"
+    ],
+    "title": "Experience luxury at its finest",
+    "desc": "This luxurious hotel offers top-of-the-line amenities and breathtaking views of the city",
+    "rating": 4.5,
+    "rooms": ["King Suite", "Queen Suite"],
+    "cheapestPrice": 350,
+    "featured": true
+  },
+  {
+    "name": "Beach Resort",
+    "type": "Resort",
+    "city": "Miami",
+    "address": "5678 Ocean Dr",
+    "distance": "0.5 miles",
+    "photos": [
+      "https://cdn.pixabay.com/photo/2016/06/24/10/47/house-1477041_960_720.jpg",
+      "https://cdn.pixabay.com/photo/2016/08/26/20/30/hotel-1623064_960_720.jpg",
+      "https://cdn.pixabay.com/photo/2015/03/18/21/17/bora-bora-680010_960_720.jpg"
+    ],
+    "title": "Escape to paradise",
+    "desc": "This stunning resort is located right on the beach and offers a wide range of water activities",
+    "rating": 4.2,
+    "rooms": ["Ocean View Room", "Beachfront Suite"],
+    "cheapestPrice": 250,
+    "featured": false
+  },
+  {
+    "name": "City View Hotel",
+    "type": "Hotel",
+    "city": "Chicago",
+    "address": "4321 State St",
+    "distance": "1 mile",
+    "photos": [
+      "https://cdn.pixabay.com/photo/2021/10/06/15/05/bedroom-6686061_960_720.jpg",
+      "https://cdn.pixabay.com/photo/2016/11/18/17/46/house-1836070_960_720.jpg",
+      "https://cdn.pixabay.com/photo/2016/08/26/20/30/hotel-1623064_960_720.jpg"
+    ],
+    "title": "Stay in the heart of the city",
+    "desc": "This hotel offers stunning views of the city skyline and is within walking distance of all the top attractions",
+    "rating": 3.8,
+    "rooms": ["Standard Room", "Deluxe Suite"],
+    "cheapestPrice": 120,
+    "featured": true
+  },
+  {
+    "name": "Mountain Lodge",
+    "type": "Lodge",
+    "city": "Denver",
+    "address": "9876 Mountain Rd",
+    "distance": "5 miles",
+    "photos": [
+      "https://cdn.pixabay.com/photo/2015/01/10/11/39/hotel-595121_960_720.jpg",
+      "https://cdn.pixabay.com/photo/2016/11/18/17/46/house-1836070_960_720.jpg",
+      "https://cdn.pixabay.com/photo/2022/10/23/02/26/hotel-7540353_960_720.jpg"
+    ],
+    "title": "Escape to the mountains",
+    "desc": "This cozy lodge is nestled in the heart of the mountains and offers stunning views of the surrounding wilderness",
+    "rating": 4.0,
+    "rooms": ["Standard Room", "Mountain View Suite"],
+    "cheapestPrice": 150,
+    "featured": false
+  },
+  {
+    "name": "Historic Inn",
+    "type": "Inn",
+    "city": "Boston",
+    "address": "2468 Beacon St",
+    "distance": "3 miles",
+    "photos": [
+      "https://cdn.pixabay.com/photo/2014/12/27/14/37/living-room-581073_960_720.jpg",
+      "https://cdn.pixabay.com/photo/2016/11/18/17/41/summer-1836046_960_720.jpg",
+      "https://cdn.pixabay.com/photo/2015/06/12/12/10/castle-park-806854_960_720.jpg"
+    ],
+    "title": "Step back in time",
+    "desc": "This charming inn is located in a historic building and offers cozy rooms and a warm, welcoming atmosphere",
+    "rating": 4.3,
+    "rooms": ["Standard Room", "Historic Suite"],
+    "cheapestPrice": 180,
+    "featured": true
+  },
+  {
+    "name": "Mountain View Resort",
+    "type": "Resort",
+    "city": "Aspen",
+    "address": "1234 Mountain Blvd",
+    "distance": "10 miles",
+    "photos": [
+      "https://cdn.pixabay.com/photo/2016/11/18/17/46/house-1836070_960_720.jpg",
+      "https://cdn.pixabay.com/photo/2016/06/24/10/47/house-1477041_960_720.jpg",
+      "https://cdn.pixabay.com/photo/2016/08/26/20/30/hotel-1623064_960_720.jpg"
+    ],
+    "title": "Experience the beauty of the mountains",
+    "desc": "This stunning resort offers breathtaking views of the mountains and a wide range of outdoor activities",
+    "rating": 4.7,
+    "rooms": ["Mountain View Suite", "Deluxe Room"],
+    "cheapestPrice": 300,
+    "featured": true
+  },
+  {
+    "name": "Seaside Inn",
+    "type": "Inn",
+    "city": "Santa Barbara",
+    "address": "4567 Ocean Ave",
+    "distance": "0.1 miles",
+    "photos": [
+      "https://cdn.pixabay.com/photo/2016/11/18/17/41/summer-1836046_960_720.jpg",
+      "https://cdn.pixabay.com/photo/2015/06/12/12/10/castle-park-806854_960_720.jpg",
+      "https://cdn.pixabay.com/photo/2015/01/10/11/39/hotel-595121_960_720.jpg"
+    ],
+    "title": "Relax by the ocean",
+    "desc": "This cozy inn is located just steps from the beach and offers a relaxing atmosphere",
+    "rating": 4.1,
+    "rooms": ["Ocean View Room", "Beach Cottage"],
+    "cheapestPrice": 200,
+    "featured": false
+  },
+  {
+    "name": "Grand Hotel",
+    "type": "Luxury",
+    "city": "Paris",
+    "address": "7890 Champs-Élysées",
+    "distance": "1 mile",
+    "photos": [
+      "https://cdn.pixabay.com/photo/2018/12/29/14/11/barcelona-3901449_960_720.jpg",
+      "https://cdn.pixabay.com/photo/2014/12/10/06/49/venetian-562762_960_720.jpg",
+      "https://cdn.pixabay.com/photo/2017/05/24/11/35/argentina-2340314_960_720.jpg"
+    ],
+    "title": "Experience luxury in the heart of Paris",
+    "desc": "This grand hotel offers opulent accommodations and world-class dining",
+    "rating": 4.9,
+    "rooms": ["Grand Suite", "Deluxe Room"],
+    "cheapestPrice": 500,
+    "featured": true
+  },
+  {
+    "name": "Grand Hotel",
+    "type": "Luxury",
+    "city": "Mali",
+    "address": "5 Rue de la Paix",
+    "distance": "1 mile",
+    "photos": [
+      "https://cdn.pixabay.com/photo/2014/12/10/06/49/venetian-562762_960_720.jpg",
+      "https://cdn.pixabay.com/photo/2017/05/24/11/35/argentina-2340314_960_720.jpg",
+      "https://cdn.pixabay.com/photo/2021/10/06/15/05/bedroom-6686061_960_720.jpg"
+    ],
+    "title": "Experience opulence and elegance",
+    "desc": "This grand hotel is a symbol of luxury and class in the heart of Paris",
+    "rating": 4.8,
+    "rooms": ["Deluxe Room", "Executive Suite"],
+    "cheapestPrice": 450,
+    "featured": true
+  },
+  {
+    "name": "Seaside Resort",
+    "type": "Resort",
+    "city": "Miami",
+    "address": "123 Ocean Drive",
+    "distance": "0.5 miles",
+    "photos": [
+      "https://cdn.pixabay.com/photo/2014/12/10/06/49/venetian-562762_960_720.jpg",
+      "https://cdn.pixabay.com/photo/2017/05/24/11/35/argentina-2340314_960_720.jpg",
+      "https://cdn.pixabay.com/photo/2021/10/06/15/05/bedroom-6686061_960_720.jpg"
+    ],
+    "title": "Escape to a tropical paradise",
+    "desc": "This seaside resort offers a perfect blend of luxury and nature",
+    "rating": 4.6,
+    "rooms": ["Ocean View Room", "Beachfront Suite"],
+    "cheapestPrice": 300,
+    "featured": true
+  },
+  {
+    "name": "Mountain Lodge",
+    "type": "Lodge",
+    "city": "Aspen",
+    "address": "456 Snowmass Rd",
+    "distance": "3 miles",
+    "photos": [
+      "https://cdn.pixabay.com/photo/2015/11/27/20/28/cathedral-1066314_960_720.jpg",
+      "https://cdn.pixabay.com/photo/2016/11/18/17/46/house-1836070_960_720.jpg",
+      "https://cdn.pixabay.com/photo/2016/06/24/10/47/house-1477041_960_720.jpg"
+    ],
+    "title": "Experience rustic charm in the mountains",
+    "desc": "This cozy lodge is a perfect getaway for nature lovers",
+    "rating": 4.2,
+    "rooms": ["Standard Room", "Deluxe Suite"],
+    "cheapestPrice": 200,
+    "featured": true
+  },
+  {
+    "name": "Heritage Hotel",
+    "type": "Historic",
+    "city": "London",
+    "address": "10 Downing Street",
+    "distance": "1 mile",
+    "photos": [
+      "https://cdn.pixabay.com/photo/2014/12/10/06/49/venetian-562762_960_720.jpg",
+      "https://cdn.pixabay.com/photo/2017/05/24/11/35/argentina-2340314_960_720.jpg",
+      "https://cdn.pixabay.com/photo/2021/10/06/15/05/bedroom-6686061_960_720.jpg"
+    ],
+    "title": "Step into a bygone era",
+    "desc": "This historic hotel offers a glimpse into London's rich cultural heritage",
+    "rating": 4.4,
+    "rooms": ["Antique Room", "Presidential Suite"],
+    "cheapestPrice": 400,
+    "featured": true
+  },
+  {
+    "name": "Rooftop Hotel",
+    "type": "Boutique",
+    "city": "Tokyo",
+    "address": "2 Chome-2-1 Nihonbashi, Chuo City",
+    "distance": "0.5 miles",
+    "photos": [
+      "https://cdn.pixabay.com/photo/2013/04/11/19/46/building-102840_960_720.jpg",
+      "https://cdn.pixabay.com/photo/2015/11/27/20/28/cathedral-1066314_960_720.jpg",
+      "https://cdn.pixabay.com/photo/2016/11/18/17/46/house-1836070_960_720.jpg"
+    ],
+    "title": "Stay in the heart of Tokyo",
+    "desc": "This boutique hotel boasts stunning views of the city skyline from its rooftop bar",
+    "rating": 4.7,
+    "rooms": ["City View Room", "Sky Suite"],
+    "cheapestPrice": 250,
+    "featured": true
+  },
+  {
+    "name": "Safari Lodge",
+    "type": "Lodge",
+    "city": "Kruger National Park",
+    "address": "Skukuza Rest Camp",
+    "distance": "0 miles",
+    "photos": [
+      "https://cdn.pixabay.com/photo/2016/11/18/17/41/summer-1836046_960_720.jpg",
+      "https://cdn.pixabay.com/photo/2015/06/12/12/10/castle-park-806854_960_720.jpg",
+      "https://cdn.pixabay.com/photo/2015/01/10/11/39/hotel-595121_960_720.jpg"
+    ],
+    "title": "Experience the ultimate safari adventure",
+    "desc": "This lodge offers an unforgettable wildlife experience in the heart of Kruger National Park",
+    "rating": 4.9,
+    "rooms": ["Bush View Room", "Savannah Suite"],
+    "cheapestPrice": 300,
+    "featured": true
+  },
+  {
+    "name": "Beach House",
+    "type": "Villa",
+    "city": "Malibu",
+    "address": "123 Beachfront Drive",
+    "distance": "0 miles",
+    "photos": [
+      "https://cdn.pixabay.com/photo/2018/12/29/14/11/barcelona-3901449_960_720.jpg",
+      "https://cdn.pixabay.com/photo/2014/12/10/06/49/venetian-562762_960_720.jpg",
+      "https://cdn.pixabay.com/photo/2017/05/24/11/35/argentina-2340314_960_720.jpg"
+    ],
+    "title": "Relax and unwind by the ocean",
+    "desc": "This stunning beachfront villa offers breathtaking views and luxurious amenities",
+    "rating": 4.9,
+    "rooms": ["Ocean View Room", "Beachfront Suite"],
+    "cheapestPrice": 500,
+    "featured": true
+  },
+  {
+    "name": "Mountain Retreat",
+    "type": "Chalet",
+    "city": "Whistler",
+    "address": "1000 Peaks Lodge",
+    "distance": "1 mile",
+    "photos": [
+      "https://cdn.pixabay.com/photo/2014/12/10/06/49/venetian-562762_960_720.jpg",
+      "https://cdn.pixabay.com/photo/2017/05/24/11/35/argentina-2340314_960_720.jpg",
+      "https://cdn.pixabay.com/photo/2021/10/06/15/05/bedroom-6686061_960_720.jpg"
+    ],
+    "title": "Escape to the mountains",
+    "desc": "This cozy chalet is the perfect retreat for skiing and snowboarding enthusiasts",
+    "rating": 4.5,
+    "rooms": ["Standard Room", "Deluxe Suite"],
+    "cheapestPrice": 300,
+    "featured": true
+  },
+  {
+    "name": "Urban Oasis",
+    "type": "Boutique",
+    "city": "San Francisco",
+    "address": "123 Market St",
+    "distance": "0.5 miles",
+    "photos": [
+      "https://cdn.pixabay.com/photo/2013/04/11/19/46/building-102840_960_720.jpg",
+      "https://cdn.pixabay.com/photo/2015/11/27/20/28/cathedral-1066314_960_720.jpg",
+      "https://cdn.pixabay.com/photo/2016/11/18/17/46/house-1836070_960_720.jpg"
+    ],
+    "title": "Experience luxury in the city",
+    "desc": "This boutique hotel offers a serene oasis in the bustling heart of San Francisco",
+    "rating": 4.7,
+    "rooms": ["City View Room", "Sky Suite"],
+    "cheapestPrice": 350,
+    "featured": true
+  },
+  {
+    "name": "Tropical Resort",
+    "type": "Resort",
+    "city": "Phuket",
+    "address": "123 Beach Rd",
+    "distance": "0 miles",
+    "photos": [
+      "https://cdn.pixabay.com/photo/2016/06/24/10/47/house-1477041_960_720.jpg",
+      "https://cdn.pixabay.com/photo/2014/12/27/14/37/living-room-581073_960_720.jpg",
+      "https://cdn.pixabay.com/photo/2016/11/18/17/41/summer-1836046_960_720.jpg"
+    ],
+    "title": "Escape to paradise",
+    "desc": "This tropical resort offers a luxurious and relaxing getaway in Phuket",
+    "rating": 4.8,
+    "rooms": ["Pool View Room", "Oceanfront Suite"],
+    "cheapestPrice": 400,
+    "featured": true
+  },
+  {
+    "name": "Art Deco Hotel",
+    "type": "Boutique",
+    "city": "Miami Beach",
+    "address": "123 Ocean Dr",
+    "distance": "0 miles",
+    "photos": [
+      "https://cdn.pixabay.com/photo/2015/06/12/12/10/castle-park-806854_960_720.jpg",
+      "https://cdn.pixabay.com/photo/2015/01/10/11/39/hotel-595121_960_720.jpg",
+      "https://cdn.pixabay.com/photo/2014/08/11/21/39/wall-416060_960_720.jpg"
+    ],
+    "title": "Experience the glamour of Miami Beach",
+    "desc": "This boutique hotel is a stunning example of Art Deco architecture in the heart of Miami Beach",
+    "rating": 4.6,
+    "rooms": ["City View Room", "Oceanfront Suite"],
+    "cheapestPrice": 350,
+    "featured": true
+  },
+  {
+    "name": "Secluded Lodge",
+    "type": "Lodge",
+    "city": "Yellowstone",
+    "address": "123 Forest Rd",
+    "distance": "2 miles",
+    "photos": [
+      "https://cdn.pixabay.com/photo/2016/04/15/11/45/hotel-1330841_960_720.jpg",
+      "https://cdn.pixabay.com/photo/2018/12/29/14/11/barcelona-3901449_960_720.jpg",
+      "https://cdn.pixabay.com/photo/2014/12/10/06/49/venetian-562762_960_720.jpg",
+      "https://cdn.pixabay.com/photo/2017/05/24/11/35/argentina-2340314_960_720.jpg"
+    ],
+    "title": "Escape to nature",
+    "desc": "This secluded lodge is the perfect retreat for nature lovers in Yellowstone National Park",
+    "rating": 4.4,
+    "rooms": ["Forest View Room", "Mountain Suite"],
+    "cheapestPrice": 200,
+    "featured": true
+  }
+]
